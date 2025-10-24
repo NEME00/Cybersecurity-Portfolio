@@ -1,0 +1,22 @@
+Cybersecurity-Portfolio/
+│
+├── README.md
+│
+├── 01-Network-Analysis/
+│   ├── Wireshark-Lab.md
+│   └── Capturas/
+│
+├── 02-Pentesting-Labs/
+│   ├── Nmap-Scan-Report.md
+│   ├── Metasploit-Exercise.md
+│
+├── 03-OSINT-Investigations/
+│   ├── Case1-MissingPerson.md
+│   ├── Case2-DomainAnalysis.md
+│
+├── 04-Forensics/
+│   ├── Basic-Disk-Analysis.md
+│
+└── 05-TryHackMe-Reports/
+    ├── Blue-Start-Lab.md
+    ├── SOC-Level1-Notes.md
